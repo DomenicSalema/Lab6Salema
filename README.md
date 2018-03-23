@@ -1,2 +1,2 @@
-# Lab6Salema
-Lab Six: Document Object Model Collisions
+# JSPlatformer
+JS Platformer for DIG 3480C
